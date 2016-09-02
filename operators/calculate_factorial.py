@@ -7,5 +7,6 @@ def calc_factorial(number):
     elif number == 0:
         print("The factorial of 0 is 1")
     elif number > 1:
-        print(fact(number))
+        results = fact(number)
+        print(results)
 
