@@ -20,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../justAtest/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="90">
+              <caret line="5" column="73" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="73" />
               <folding />
             </state>
           </provider>
@@ -50,7 +50,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="methods.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="methods.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../justAtest/operators/methods.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
@@ -79,8 +79,8 @@
         <option value="$PROJECT_DIR$/../justAtest/operators/test.py" />
         <option value="$PROJECT_DIR$/../justAtest/test_strings.py" />
         <option value="$PROJECT_DIR$/../justAtest/strings/words.py" />
-        <option value="$PROJECT_DIR$/../justAtest/test.py" />
         <option value="$PROJECT_DIR$/../justAtest/operators/methods.py" />
+        <option value="$PROJECT_DIR$/../justAtest/test.py" />
       </list>
     </option>
   </component>
@@ -557,6 +557,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../justAtest/operators/methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../justAtest/test_strings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -567,16 +575,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../justAtest/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../justAtest/operators/methods.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="90">
+          <caret line="5" column="73" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="73" />
           <folding />
         </state>
       </provider>
