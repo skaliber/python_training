@@ -1,3 +1,8 @@
 from operators import methods as meth
 
-meth.go()
+
+def main():
+    meth.go()
+
+
+if __name__ == "__main__": main()
