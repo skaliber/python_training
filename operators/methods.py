@@ -1,4 +1,4 @@
-def go():
+def go() -> object:
     if 3 > 2:
         print("Test")
 
