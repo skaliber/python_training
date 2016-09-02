@@ -3,11 +3,12 @@ def go() -> object:
         print("Test")
 
     print("please enter your prefference \n:")
+
     respose = input()
 
     if respose == "test".capitalize():
         print("yes please".swapcase())
     elif respose == "":
-        print("You are so empty")
+        print("you are so empty")
     else:
-        print("No thank you")
+        print("no thank you".swapcase())
